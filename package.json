@@ -22,7 +22,7 @@
     "angular-ui-bootstrap": "~2.5.0",
     "appdirectory": "~0.1.0",
     "autosize": "^3.0.20",
-    "bootstrap": "~3.3.7",
+    "bootstrap": "~3.4.1",
     "electron-auto-updater": "~1.0.0",
     "electron-log": "~2.2.3",
     "electron-window-state": "~4.1.0",
