@@ -10,7 +10,7 @@
     "release": "build --windows --linux -p never;./build/dist.sh "
   },
   "dependencies": {
-    "angular": "~1.6.4",
+    "angular": "~1.8.0",
     "angular-animate": "~1.6.4",
     "angular-aria": "~1.6.4",
     "angular-bootstrap-contextmenu": "~0.9.9",
